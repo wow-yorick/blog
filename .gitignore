@@ -9,3 +9,4 @@ package.json
 *.un~
 public/
 content/
+.hugo_build.lock
