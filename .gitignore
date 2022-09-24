@@ -8,4 +8,5 @@ node_modules
 package.json
 *.un~
 content/
+.hugo_build.lock
 public/
