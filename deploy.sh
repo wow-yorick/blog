@@ -1,1 +1,1 @@
-make -f ~/workspace/wow-yorick/tools/Makefile publish
+make -f ~/.dotfiles/tools/Makefile publish
