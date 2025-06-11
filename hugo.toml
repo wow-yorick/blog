@@ -2,7 +2,7 @@
 # If you want to see the full configuration, please check `full-config.toml` .
 # And see https://gohugo.io/getting-started/configuration/ .
 
-baseURL = "https://www.5zyx.com/"
+baseURL = "https://wow-yorick.github.io/"
 title = "编程悟道"
 enableRobotsTXT = true
 enableEmoji = true
