@@ -7,7 +7,6 @@ Gemfile.lock
 node_modules
 package.json
 *.un~
-content/
 .hugo_build.lock
 public/
 resources/_gen
